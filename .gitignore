@@ -1,3 +1,5 @@
 yolo-train*/
+yolo_train*/
 rawImages/
+rawVideos/
 .ipynb*
